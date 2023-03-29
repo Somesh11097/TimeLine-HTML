@@ -5,3 +5,4 @@
  
  # Restaurant menu
    2. Create a menu for a restaurant using an ordered list. Each item on the menu should be a dish or a beverage. Add a description and the price for each item.
+      ![image](https://user-images.githubusercontent.com/32162479/228452948-de9f8244-406f-4898-a47c-9f0a307f892b.png)
